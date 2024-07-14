@@ -15,3 +15,4 @@
   - identify and document all manual steps
   - Github Runners - How do they work?
   - think about how this is going to be used for other sites
+  - How do deploy this @ work?
